@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>arrow_sans_left_32.png</file>
+        <file>arrow_sans_right_32.png</file>
+        <file>website_32.png</file>
+        <file>search_32.png</file>
+        <file>dropimage.png</file>
+        <file>appicon.png</file>
+        <file>qt_icon.png</file>
+        <file>sqlite_icon.png</file>
+        <file>tac_icon.png</file>
+    </qresource>
+</RCC>
